@@ -1,8 +1,9 @@
 .jumbotron{
     padding:2rem 1rem;
-    background-color: #e2edff;
     height: 100vh;
     padding-top: 100px;
+    background-image:url(img/bg.png);
+    background-size: cover;
 }
 
 .display-5{
